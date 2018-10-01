@@ -31,6 +31,18 @@ parts:
     override-build: |
       set -ex
 
+      echo "=================================================="
+      set
+      echo "=================================================="
+      git branch
+      echo "=================================================="
+      git rev-parse --abbrev-ref HEAD
+      echo "=================================================="
+      git symbolic-ref --short HEAD
+      echo "=================================================="
+      git version
+      echo "=================================================="
+
       echo "\nStarting override-build:"
       export GOPATH=$(realpath ../go)
       export PATH=$GOPATH/bin:$PATH
