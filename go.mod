@@ -12,6 +12,7 @@ require (
 	github.com/bep/debounce v1.1.0
 	github.com/bep/gitmap v1.0.0
 	github.com/bep/go-tocss v0.5.0
+	github.com/bep/mapstructure v0.0.0-20180511142126-bb74f1db0675
 	github.com/chaseadamsio/goorgeous v1.1.0
 	github.com/cpuguy83/go-md2man v1.0.8 // indirect
 	github.com/danwakefield/fnmatch v0.0.0-20160403171240-cbb64ac3d964 // indirect
@@ -49,7 +50,7 @@ require (
 	github.com/spf13/fsync v0.0.0-20170320142552-12a01e648f05
 	github.com/spf13/jwalterweatherman v1.0.1-0.20181028145347-94f6ae3ed3bc
 	github.com/spf13/nitro v0.0.0-20131003134307-24d7ef30a12d
-	github.com/spf13/pflag v1.0.2
+	github.com/spf13/pflag v1.0.3
 	github.com/spf13/viper v1.2.0
 	github.com/stretchr/testify v1.2.3-0.20181002232621-f2347ac6c9c9
 	github.com/tdewolff/minify v2.3.6+incompatible
