@@ -54,7 +54,7 @@ require (
 	github.com/spf13/viper v1.2.0
 	github.com/stretchr/testify v1.2.3-0.20181002232621-f2347ac6c9c9
 	github.com/tdewolff/minify/v2 v2.3.7
-	github.com/wellington/go-libsass v0.0.0-20180624165032-615eaa47ef79 // indirect
+	github.com/wellington/go-libsass v0.9.2 // indirect
 	github.com/yosssi/ace v0.0.5
 	golang.org/x/image v0.0.0-20180708004352-c73c2afc3b81
 	golang.org/x/net v0.0.0-20180906233101-161cd47e91fd // indirect
