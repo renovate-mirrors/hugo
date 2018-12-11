@@ -8,7 +8,7 @@ require (
 	github.com/alecthomas/assert v0.0.0-20170929043011-405dbfeb8e38
 	github.com/alecthomas/chroma v0.6.0
 	github.com/alecthomas/colour v0.0.0-20160524082231-60882d9e2721 // indirect
-	github.com/alecthomas/repr v0.0.0-20180818092828-117648cd9897 // indirect
+	github.com/alecthomas/repr v0.0.0-20181211144557-d37bc2a10ba1 // indirect
 	github.com/bep/debounce v1.1.0
 	github.com/bep/gitmap v1.0.0
 	github.com/bep/go-tocss v0.6.0
