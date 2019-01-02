@@ -15,7 +15,7 @@ require (
 	github.com/cpuguy83/go-md2man v1.0.8 // indirect
 	github.com/disintegration/imaging v1.5.0
 	github.com/eknkc/amber v0.0.0-20171010120322-cdade1c07385
-	github.com/fortytw2/leaktest v1.2.0
+	github.com/fortytw2/leaktest v1.3.0
 	github.com/fsnotify/fsnotify v1.4.7
 	github.com/gobwas/glob v0.2.3
 	github.com/gorilla/websocket v1.4.0
