@@ -11,7 +11,7 @@ require (
 	github.com/bep/debounce v1.1.0
 	github.com/bep/gitmap v1.0.0
 	github.com/bep/go-tocss v0.6.0
-	github.com/chaseadamsio/goorgeous v1.1.0
+	github.com/chaseadamsio/goorgeous/v2 v2.0.0
 	github.com/cpuguy83/go-md2man v1.0.8 // indirect
 	github.com/disintegration/imaging v1.5.0
 	github.com/eknkc/amber v0.0.0-20171010120322-cdade1c07385
