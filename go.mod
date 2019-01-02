@@ -50,7 +50,7 @@ require (
 	github.com/stretchr/testify v1.2.3-0.20181014000028-04af85275a5c
 	github.com/tdewolff/minify/v2 v2.3.7
 	github.com/yosssi/ace v0.0.5
-	golang.org/x/image v0.0.0-20180708004352-c73c2afc3b81
+	golang.org/x/image v0.0.0-20181227103940-cd38e8056d9b
 	golang.org/x/net v0.0.0-20180906233101-161cd47e91fd // indirect
 	golang.org/x/sync v0.0.0-20180314180146-1d60e4601c6f
 	golang.org/x/sys v0.0.0-20181221143128-b4a75ba826a6 // indirect
