@@ -23,7 +23,7 @@ require (
 	github.com/inconshreveable/mousetrap v1.0.0 // indirect
 	github.com/jdkato/prose v1.1.0
 	github.com/kr/pretty v0.1.0 // indirect
-	github.com/kyokomi/emoji v1.5.1
+	github.com/kyokomi/emoji/v2 v2.0.0
 	github.com/magefile/mage v1.4.0
 	github.com/markbates/inflect v1.0.0
 	github.com/mattn/go-isatty v0.0.4
