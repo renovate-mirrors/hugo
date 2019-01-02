@@ -51,7 +51,7 @@ require (
 	github.com/tdewolff/minify/v2 v2.3.7
 	github.com/yosssi/ace v0.0.5
 	golang.org/x/image v0.0.0-20180708004352-c73c2afc3b81
-	golang.org/x/net v0.0.0-20180906233101-161cd47e91fd // indirect
+	golang.org/x/net v0.0.0-20181227104036-927f97764cc3 // indirect
 	golang.org/x/sync v0.0.0-20180314180146-1d60e4601c6f
 	golang.org/x/sys v0.0.0-20181221143128-b4a75ba826a6 // indirect
 	golang.org/x/text v0.3.0
